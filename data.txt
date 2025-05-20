@@ -1,0 +1,4 @@
+income,salary,20000.0,Apr
+expense,food,1000.0,Apr
+income,business,50000.0,May
+expense,rent,20000.0,May
